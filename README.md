@@ -2,6 +2,7 @@
 This Solidity smart contract named "MyToken" defines a custom token on the Ethereum blockchain. It allows the creation, tracking, and destruction of tokens.
 
 # Public variables:
+
 tokenName - a string that represents the name of the token
 tokenAbbrv - a string that represents the abbreviation of the token
 totalSupply - an unsigned integer that represents the total supply of the token
